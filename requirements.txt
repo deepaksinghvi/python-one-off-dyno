@@ -17,14 +17,3 @@ text-unidecode==1.3
 tomli==2.0.1
 typing_extensions==4.12.1
 urllib3==2.2.1
-libatk==1.0-0
-libatk-bridge2.0-0                    ║
-libdrm2          
-libatspi2.0-0
-libxcomposite1
-libxdamage1 
-libxfixes3   
-libxrandr2   
-libgbm1     
-libxkbcommon
-libas2
