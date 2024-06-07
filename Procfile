@@ -1,0 +1,1 @@
+playwrighttask: bash execution.sh
